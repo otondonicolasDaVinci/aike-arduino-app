@@ -42,8 +42,8 @@
 /* ======================================== */
 
 /* ======================================== WiFi credentials */
-const char* ssid     = "$88$";
-const char* password = "metenespodridoconlaspapitas";
+const char* ssid     = ""; // nombre de red wifi
+const char* password = "";  // password
 /* ======================================== */
 
 /* ======================================== Tarea QRCodeReader handle */
